@@ -1,7 +1,7 @@
-## Tic Tac Toe
+# Tic Tac Toe
 This is a command-line version of the classic Tic Tac Toe game built using Ruby. The game can be played by two human players. The board is displayed after each turn.
 
-# Installation
+## Installation
 Clone the repository to your local machine.
 Navigate to the project directory.
 Run ruby main.rb to start the game.
@@ -14,6 +14,6 @@ If all 9 cells are full and no player has won, the game is a tie.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-# Acknowledgments
+## Acknowledgments
 This project was inspired by The Odin Project.
 
